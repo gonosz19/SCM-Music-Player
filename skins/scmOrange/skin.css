@@ -6,7 +6,7 @@
 #player{ background:url(sizerAndVol.png); background-position: bottom !important;background-repeat: repeat-x !important; }
 #player .mainImage{ background:url(main.png); }
 
-#player #baseLeft{ width:93px; }
+#player #baseLeft{ width:150px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:22px; }
 #player #play{ background:url(playBtn.png); }
